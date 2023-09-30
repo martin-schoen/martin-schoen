@@ -2,7 +2,7 @@
 .full-stack-developer: {
 	display: male;
 	animation-name: "Martin";
-	animation-duration: 29yo;
+	animation-duration: 30yo;
 }
 ```
 
