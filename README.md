@@ -13,7 +13,7 @@ var martin = new BackendDeveloper()
 
 ``` ts
 const martin : FrontendDeveloper = {
-	lastName: "Schön"
+	lastName: "Schön",
 	experiencedWith: ["TypeScript", "JavaSript", "HTML", "CSS"],
 	favouriteTools: ["Visual Studio Code", "Vite", "Svelte"]
 }
