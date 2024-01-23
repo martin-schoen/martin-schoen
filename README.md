@@ -14,14 +14,14 @@ const martin : FrontendDeveloper = {
 }
 ```
 
-``` C#
+``` csharp
 var martin = new BackendDeveloper()
 {
 	ExperiencedWith = [ "C#", ".NET", "WebAPI", "Blazor", "Entity Framework", "SQL" ],
 	FavouriteTools = [ "Docker", "JetBrains Rider", "MariadDb"]
 }
 ```
-```` C#
+```` csharp
 var martin = new UnityDeveloper();
 martin.ExperienceWith = ["VR", "AR", "WebGL", "Netcode"];
 martin.YearsOfExperience = 4; //+
