@@ -1,8 +1,13 @@
-``` CSS
-.full-stack-developer: {
-	display: male;
-	animation-name: "Martin";
-	animation-duration: 30yo;
+``` csharp
+var martin = new UnityDeveloper();
+martin.ExperienceWith = ["VR", "AR", "WebGL", "Netcode"];
+martin.YearsOfExperience = 4; //+
+```
+``` csharp
+var martin = new BackendDeveloper()
+{
+	ExperiencedWith = [ "C#", ".NET", "WebAPI", "Blazor", "Entity Framework", "SQL" ],
+	FavouriteTools = [ "Docker", "JetBrains Rider", "MariadDb"]
 }
 ```
 
@@ -14,19 +19,13 @@ const martin : FrontendDeveloper = {
 }
 ```
 
-``` csharp
-var martin = new BackendDeveloper()
-{
-	ExperiencedWith = [ "C#", ".NET", "WebAPI", "Blazor", "Entity Framework", "SQL" ],
-	FavouriteTools = [ "Docker", "JetBrains Rider", "MariadDb"]
+``` CSS
+.full-stack-developer: {
+	display: male;
+	animation-name: "Martin";
+	animation-duration: 30yo;
 }
 ```
-```` csharp
-var martin = new UnityDeveloper();
-martin.ExperienceWith = ["VR", "AR", "WebGL", "Netcode"];
-martin.YearsOfExperience = 4; //+
-````
-
 ``` html
 <html>
 	<head>
@@ -37,7 +36,7 @@ martin.YearsOfExperience = 4; //+
 		
 		<h2>Hobbies:<h2>
 		<ul>
-			<li> Game Development with Unity </li>
+			<li> Virtual Reality Gaming</li>
 			<li> Programming </li>
 		<ul>
 	
