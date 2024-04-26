@@ -42,7 +42,7 @@ const martin : FrontendDeveloper = {
 	
 		<h2>Strengths:<h2>
 		<ul>
-			<li>hude thirst for knowledge</li>
+			<li>unbridled thirst for knowledge</li>
 			<li>I wanna be the very best, Like no one ever was ...</li> 
 		</ul>
 		<h2>Weakness</h2>
